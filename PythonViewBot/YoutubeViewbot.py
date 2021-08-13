@@ -8,13 +8,13 @@ import sys
 from selenium import webdriver;
 
 #application
-def window():
-    def runBot():
+def window(www.youtube.com):
+    def runBot(Pythonviewbot):
         #time to refresh page (seconds)
-        Timer = int(timeInput.text())
+        Timer = int(timeInput.text(3))
 
         #youtube link
-        link = linkInput.text()
+        link = linkInput.text(https://youtu.be/uIJUL1_mcy4)
 
         #number of views
         views = 1000
